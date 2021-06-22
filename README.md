@@ -1,5 +1,6 @@
 # River Geo-Run
 A game that mimics the age old river crossing game with hand created sprites and very primitive game design. This was created in February of 2020 and hence lacks proper structure. Dodge and weave strange geometric alien shapes with a smirk on your face, find movement patterns and make your way to the opposing river bank. Compete with a friend to reach opposing sides of the rivers to gain points and even rounds!
+!(demo)[./demo/demo.gif]
 ### How to play
 To start up Geo-Run simply run the command ```python3 main.py``` which should start up a playable pygame window. To move around in the world, player 1 can use the arrow keys, and player 2 can use the w, a, s and d keys. 
 ### Code base
